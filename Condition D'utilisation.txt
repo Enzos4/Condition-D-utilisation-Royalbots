@@ -1,0 +1,37 @@
+Conditions d’Utilisation (Terms of Service)
+
+Dernière mise à jour : 03/01/2026
+
+1. Présentation
+Royalbots est un bot Discord développé et maintenu par Vexzyoffii.
+Le bot propose diverses fonctionnalités, incluant notamment la modération, la protection des serveurs, l’automatisation et des outils utilitaires.
+
+2. Acceptation des conditions
+En ajoutant Royalbots à un serveur Discord ou en utilisant ses fonctionnalités, vous acceptez pleinement et sans réserve les présentes Conditions d’Utilisation.
+
+3. Utilisation autorisée
+Vous vous engagez à utiliser Royalbots conformément aux règles de Discord, aux présentes conditions et aux lois applicables.
+Toute utilisation abusive, malveillante, illégale ou visant à contourner les protections du bot est strictement interdite.
+
+4. Fonctionnalités de modération et de protection
+Royalbots fournit des outils de modération et de sécurité destinés à aider les administrateurs de serveurs.
+Le développeur ne garantit pas une protection absolue contre les abus, raids ou comportements malveillants.
+La responsabilité de la configuration et de l’utilisation correcte du bot incombe aux administrateurs du serveur.
+
+5. Disponibilité du service
+Royalbots est fourni "tel quel", sans garantie de fonctionnement continu ou sans interruption.
+Le développeur se réserve le droit de modifier, désactiver ou interrompre tout ou partie du bot à tout moment, avec ou sans préavis.
+
+6. Responsabilité
+Le développeur ne pourra être tenu responsable des dommages directs ou indirects, pertes de données, sanctions Discord ou autres conséquences résultant de l’utilisation ou de l’impossibilité d’utiliser Royalbots.
+
+7. Suspension ou suppression de l’accès
+L’accès à Royalbots peut être suspendu ou révoqué à tout moment, notamment en cas de non-respect des présentes Conditions d’Utilisation ou d’abus avéré.
+
+8. Modifications des conditions
+Les présentes Conditions d’Utilisation peuvent être mises à jour à tout moment.
+L’utilisation continue de Royalbots après modification vaut acceptation des nouvelles conditions.
+
+9. Contact
+Pour toute question concernant Royalbots ou les présentes Conditions d’Utilisation, vous pouvez contacter :
+Contact.royalbots@gmail.com
