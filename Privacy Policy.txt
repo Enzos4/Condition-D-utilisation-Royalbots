@@ -1,0 +1,16 @@
+Privacy Policy pour Royalbots
+
+1. Données collectées
+Nous collectons uniquement les informations nécessaires au fonctionnement du bot, telles que l'ID Discord, les commandes utilisées et les statistiques d'utilisation.
+
+2. Utilisation des données
+Les données sont utilisées pour améliorer les fonctionnalités du bot et fournir des services personnalisés.
+
+3. Partage des données
+Aucune donnée n'est vendue. Les données peuvent être partagées avec nos hébergeurs cloud pour le stockage et l'analyse.
+
+4. Conservation et sécurité
+Les données sont conservées aussi longtemps que l'utilisateur utilise le bot. Nous appliquons des mesures de sécurité standard pour protéger vos informations.
+
+5. Contact
+Pour toute question ou demande de suppression de données, contactez-nous à : Contact.royalbots@gmail.com
